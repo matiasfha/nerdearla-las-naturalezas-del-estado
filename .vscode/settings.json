@@ -8,7 +8,7 @@
   "editor.renderIndentGuides": false,
   "editor.fontFamily": "Dank Mono",
   "editor.fontWeight": "600",
-  "editor.fontSize": 24,
+  "editor.fontSize": 18,
   "terminal.integrated.fontFamily": "SF Mono",
   "terminal.integrated.fontWeight": "800",
   "terminal.integrated.fontSize": 28,
@@ -16,4 +16,7 @@
 "workbench.preferredDarkColorTheme": "Night Owl",
 "workbench.preferredLightColorTheme": "Night Owl Light",
 "editor.fontLigatures": true,
+"breadcrumbs.enabled": false,
+"workbench.tips.enabled": false,
+"workbench.editor.pinnedTabSizing": "shrink",
 }
